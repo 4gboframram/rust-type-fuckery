@@ -1,3 +1,7 @@
+<div align="right">
+<a href="./README_ES.md">Spanish Version</a>
+</div>
+
 # Rust Type-Level Fuckery
 
 Rust's type system is, in fact, turing-complete, assuming an infinite recursion limit and memory. It's widely-known knowledge at this point, but no one ever stops to ask *why* this is the case, or even what we can do with this information. The goal of this repo is to show the true potential of Rust's type system in esoteric ways.
